@@ -4,7 +4,7 @@
   },
 
   "server": {
-    "ip": "KastronNetwork.aternos.me",
+    "ip": "KastronNetworks.aternos.me",
     "port": 62981,
     "version": "1.16.5"
   },
