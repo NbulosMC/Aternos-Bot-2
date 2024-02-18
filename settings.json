@@ -43,11 +43,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 240,
+      "repeat-delay": 1200,
 
       "messages": [
-        "Ben gerçek bir oyuncuyum! ",
-        "NbulosMC tarafından geliştirildim. "
+        "Merhaba Ben AhmetAksu ",
+        "Yapımcımı Söyleyemem. "
       ]
     },
 
